@@ -4,7 +4,7 @@ Please generate python3 template code with error handling that calls a sub that 
 
 import datetime
 import string
-import numpy as np  # Although not strictly needed for this example, included as requested
+# import numpy as np  # Although not strictly needed for this example, included as requested
 from reportlab.pdfgen import canvas  # Although not strictly needed for this example, included as requested
 
 def print_current_time():
